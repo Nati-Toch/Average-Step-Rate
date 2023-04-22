@@ -1,16 +1,5 @@
 # **Project in Digital Signal Processing - calculating average step rate**
 
-**Lecturer:**
-
-Dr. Bykhovsky  Dmitry
-
-**Submitors:**
-
-Netanel Tochilovsky - 318729001
-
-Oded puchinsky - 316003664
-
-Michael Aronov - 316000751
 
 # summary
 
